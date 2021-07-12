@@ -1,0 +1,143 @@
+﻿  animation.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\animation.cpp(36,9): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  charactermapselect.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  collision.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(6,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(7,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(8,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(9,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(10,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(11,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(12,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\collision.cpp(13,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  inGame.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(63,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(68,73): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(70,86): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(71,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(73,86): warning C4804: '<': unsafe use of type 'bool' in operation
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(74,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  inTitle.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(87,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(91,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(95,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(226,58): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(227,58): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(228,58): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\inTitle.cpp(229,58): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  main.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  maps.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  playerMod.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(50,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(10,21): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(11,21): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(17,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(27,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(30,28): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(32,30): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(34,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(36,31): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(38,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(40,33): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(42,35): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(196,25): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(209,24): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(218,25): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(232,24): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(239,21): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(251,24): warning C4305: '-=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(254,24): warning C4305: '+=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(317,17): warning C4305: '*=': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(318,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(319,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(322,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(325,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(328,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(331,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(336,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(337,16): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(340,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(343,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(346,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.cpp(349,33): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+animation.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __thiscall sf::Clock::restart(void)" (__imp_?restart@Clock@sf@@QAE?AVTime@2@XZ)
+animation.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Time __thiscall sf::Clock::getElapsedTime(void)const " (__imp_?getElapsedTime@Clock@sf@@QBE?AVTime@2@XZ)
+animation.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Clock::Clock(void)" (__imp_??0Clock@sf@@QAE@XZ)
+animation.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: float __thiscall sf::Time::asSeconds(void)const " (__imp_?asSeconds@Time@sf@@QBEMXZ)
+animation.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTextureRect(class sf::Rect<int> const &)" (__imp_?setTextureRect@Sprite@sf@@QAEXABV?$Rect@H@2@@Z)
+charactermapselect.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::~Texture(void)" (__imp_??1Texture@sf@@QAE@XZ)
+charactermapselect.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Texture::Texture(void)" (__imp_??0Texture@sf@@QAE@XZ)
+charactermapselect.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(void)" (__imp_??0Sprite@sf@@QAE@XZ)
+charactermapselect.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::Sprite::~Sprite(void)" (__imp_??1Sprite@sf@@UAE@XZ)
+collision.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setScale(float,float)" (__imp_?setScale@Transformable@sf@@QAEXMM@Z)
+collision.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(float,float)" (__imp_?setPosition@Transformable@sf@@QAEXMM@Z)
+collision.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Texture::loadFromFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,class sf::Rect<int> const &)" (__imp_?loadFromFile@Texture@sf@@QAE_NABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@ABV?$Rect@H@2@@Z)
+collision.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Sprite::setTexture(class sf::Texture const &,bool)" (__imp_?setTexture@Sprite@sf@@QAEXABVTexture@2@_N@Z)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static class sf::RenderStates const sf::RenderStates::Default" (__imp_?Default@RenderStates@sf@@2V12@B)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::scale(float,float)" (__imp_?scale@Transformable@sf@@QAEXMM@Z)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Color::Color(unsigned char,unsigned char,unsigned char,unsigned char)" (__imp_??0Color@sf@@QAE@EEEE@Z)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::display(void)" (__imp_?display@Window@sf@@QAEXXZ)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::close(void)" (__imp_?close@Window@sf@@QAEXXZ)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::draw(class sf::Drawable const &,class sf::RenderStates const &)" (__imp_?draw@RenderTarget@sf@@QAEXABVDrawable@2@ABVRenderStates@2@@Z)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::RenderTarget::clear(class sf::Color const &)" (__imp_?clear@RenderTarget@sf@@QAEXABVColor@2@@Z)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: static bool __cdecl sf::Keyboard::isKeyPressed(enum sf::Keyboard::Key)" (__imp_?isKeyPressed@Keyboard@sf@@SA_NW4Key@12@@Z)
+inGame.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Rect<float> __thiscall sf::Sprite::getGlobalBounds(void)const " (__imp_?getGlobalBounds@Sprite@sf@@QBE?AV?$Rect@M@2@XZ)
+inTitle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Transformable::setPosition(class sf::Vector2<float> const &)" (__imp_?setPosition@Transformable@sf@@QAEXABV?$Vector2@M@2@@Z)
+inTitle.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: void __thiscall sf::Window::setKeyRepeatEnabled(bool)" (__imp_?setKeyRepeatEnabled@Window@sf@@QAEX_N@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: virtual __thiscall sf::RenderWindow::~RenderWindow(void)" (__imp_??1RenderWindow@sf@@UAE@XZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::RenderWindow::RenderWindow(class sf::VideoMode,class sf::String const &,unsigned int,struct sf::ContextSettings const &)" (__imp_??0RenderWindow@sf@@QAE@VVideoMode@1@ABVString@1@IABUContextSettings@1@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::pollEvent(class sf::Event &)" (__imp_?pollEvent@Window@sf@@QAE_NAAVEvent@2@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: bool __thiscall sf::Window::isOpen(void)const " (__imp_?isOpen@Window@sf@@QBE_NXZ)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::String(char const *,class std::locale const &)" (__imp_??0String@sf@@QAE@PBDABVlocale@std@@@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::VideoMode::VideoMode(unsigned int,unsigned int,unsigned int)" (__imp_??0VideoMode@sf@@QAE@III@Z)
+main.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::String::~String(void)" (__imp_??1String@sf@@QAE@XZ)
+playerMod.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: __thiscall sf::Sprite::Sprite(class sf::Sprite const &)" (__imp_??0Sprite@sf@@QAE@ABV01@@Z)
+playerMod.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) public: class sf::Sprite & __thiscall sf::Sprite::operator=(class sf::Sprite const &)" (__imp_??4Sprite@sf@@QAEAAV01@ABV01@@Z)
+D:\Users\micha\source\repos\ninjagamesfml\Release\ninjagamesfml.exe : fatal error LNK1120: 33 unresolved externals

@@ -1,0 +1,2 @@
+D:\Users\micha\source\repos\ninjagamesfml\Debug\ninjagamesfml.exe
+D:\Users\micha\source\repos\ninjagamesfml\Debug\ninjagamesfml.pdb

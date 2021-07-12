@@ -1,0 +1,16 @@
+﻿  inGame.cpp
+D:\Users\micha\source\repos\ninjagamesfml\playerMod.h(61,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(97,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(141,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(141,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(142,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(142,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(143,90): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(143,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(144,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(144,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(145,91): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(145,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(192,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\Users\micha\source\repos\ninjagamesfml\inGame.cpp(197,73): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  ninjagamesfml.vcxproj -> D:\Users\micha\source\repos\ninjagamesfml\Debug\ninjagamesfml.exe
