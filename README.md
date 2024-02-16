@@ -1,4 +1,5 @@
 # Ninja-Game-SFML-firstattempt-
 
+This code is from before I started University, I would do a lot of stuff different nowadays obviously lol
+
 My First SFML Game created without proper knowledge of the game development pipeline.
-By the end of this project I gained a full understanding of the mistakes made early in the development process and how I failed to create a proper memory allocation algorithm.
